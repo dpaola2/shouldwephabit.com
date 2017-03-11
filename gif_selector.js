@@ -18,7 +18,13 @@ function imageLibrary() {
   './gifs/like_a_baus.gif',
   './gifs/shia_laboeuf.gif',
   './gifs/snoop_dog.gif',
-  './gifs/yeah_mustafa.gif'
+  './gifs/yeah_mustafa.gif',
+  './gifs/duh.gif',
+  './gifs/hell_yeah.html',
+  './gifs/intense_yes.gif',
+  './gifs/mary_kate_or_ashley.gif',
+  './gifs/meryll_yes.gif',
+  './gifs/obvi.gif'
   ];
 };
 
